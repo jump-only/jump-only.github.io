@@ -172,3 +172,110 @@ input[type=radio]:checked + label>img {
 		margin-left: 20px;
 	}
 }
+.vex_x{
+    overflow:hidden;
+    border-radius:6px;
+    color:#fff;
+    margin:15px 0px 0 0px;
+    background:rgba(255,255,255,0.12);
+    box-shadow:0 0 12px rgba(0,0,0,0.3)
+}
+
+p{
+    font-family: cursive;
+    margin:5px;
+    font-size: xx-large;
+    text-align: justify-all;
+}
+
+h1{
+    font-family: cursive;
+}
+
+h2{
+    font-family: cursive;
+}
+
+h3{
+    font-family: cursive;
+    margin:5px;
+    text-align: justify-all;
+    font-size: x-large;
+}
+
+li{
+    font-family: cursive;
+    font-size: x-large;
+}
+
+strong{
+    font-family: cursive;
+    font-size: x-large;
+}
+
+a{
+    color: orange;
+    font-weight: bold;
+}
+
+a:hover{
+    color: red;
+}
+
+
+.main-bg {
+  background: 
+    linear-gradient(135deg, #1e3c72, #2a5298);
+  min-height: 100vh;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  font-family: 'Poppins', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #f5f7fa;
+}
+
+
+h1, .single-title {
+  font-family: 'Rubik', 'Poppins', sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+
+h2, h3, h4 {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 600;
+}
+
+
+p, .post-intro {
+  font-family: 'Nunito', 'Poppins', sans-serif;
+  font-size: 15.5px;
+  color: #e6e9ef;
+}
+
+/* MENU */
+.navbar-nav .nav-link {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+
+.list-title {
+  font-family: 'Rubik', sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+
+.btn {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
